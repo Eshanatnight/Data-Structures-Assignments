@@ -1,0 +1,30 @@
+#Directories
+.vs
+.vscode
+bin
+screenshots
+screenshot
+Screenshots
+Screenshot
+~Theory
+
+#Specific Files
+*.pdf
+*.exe
+
+#IDE
+*.sln
+*.o
+*.obj
+*.asm
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+Debug
+
+#Cmake and Make
+CMakeLists.txt
+build
+cmake-build-debug
+
